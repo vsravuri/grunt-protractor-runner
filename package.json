@@ -23,7 +23,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "protractor": "https://github.com/vsravuri/protractor.git#93deeabef6bc34540a2a4461422d58784ab929ce",
+    "protractor": "^6.0.0-beta",
     "split": "~1.0.1",
     "through2": "~3.0.1"
   },
