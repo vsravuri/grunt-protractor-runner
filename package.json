@@ -23,7 +23,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "protractor": "^6.0.0-beta",
+    "protractor": "^6.0.0",
     "split": "~1.0.1",
     "through2": "~3.0.1"
   },
